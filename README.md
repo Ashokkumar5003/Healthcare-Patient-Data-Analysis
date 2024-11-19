@@ -31,7 +31,6 @@ Healthcare-Patient-Data-Analysis/
 ├── README.md                 # Project documentation  
 └── requirements.txt          # Project dependencies  
 
-
 ## 📈 Key Insights  
 
 - **Trend Analysis:** Insights into seasonal or demographic trends.  
@@ -58,7 +57,12 @@ Healthcare-Patient-Data-Analysis/
 
 ## 📊 Sample Visualizations  
 
-> Add snapshots of dashboards or visualizations here.  
+   <img src = "https://github.com/adityakumaar/HealthCare-Analytics-Projects/blob/main/Health%20Care%20Analytics%20-Basic%20EDA%20and%20Visualization/extras/categorical_values.png" >
+   
+   <img src = "https://github.com/adityakumaar/HealthCare-Analytics-Projects/blob/main/Predicting%20Heart%20Diseases/extras/correlation_heatmap.png" >
+
+
+<img src = "https://github.com/adityakumaar/HealthCare-Analytics-Projects/blob/main/Predicting%20Heart%20Diseases/extras/knn_classifier_scores.png" >
 
 ## 🌟 Contributing  
 
